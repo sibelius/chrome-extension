@@ -52,5 +52,5 @@ tsconfig.tsbuildinfo
 
 .turbo
 build/**
-dist/**
+dist/js
 .next/**
