@@ -8,7 +8,7 @@
     "prettier": "prettier --write --single-quote true --trailing-comma all --print-width 120"
   },
   "dependencies": {
-    "react": "18.0.0",
+    "react": "18.1.0",
     "react-dom": "18.0.0"
   },
   "devDependencies": {
